@@ -2,5 +2,5 @@
 
 ## Programming 2 Class project
     💲 C++
-    💲Converts dollars to coins and vice versa.
+    💲Converts dollars to coins and vice-versa
   
