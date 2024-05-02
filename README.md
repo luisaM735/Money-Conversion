@@ -4,6 +4,6 @@
     💲C++
     💲Converts dollars to coins and vice-versa
     
-    🧩[Code](https://github.com/luisaM735/Money-Conversion/blob/main/money_conversion.cpp)
+  :jigsaw: [Code](https://github.com/luisaM735/Money-Conversion/blob/main/money_conversion.cpp)
     
   
